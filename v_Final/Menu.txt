@@ -1,0 +1,10 @@
+Menu:
+├── 1) CPU (Dispo/Total)
+├── 2) RAM (Dispo/Total)
+├── 3) Interface réseau (Actives, IP/Masque)
+├── 4) Info système d'exploitation (Quel OS / version)
+├── 5) Temps d'activité de l'OS
+├── 6) Disque
+│   ├── 1) Listing des volumes (Disque physique et partitions)
+│   ├── 2) Utilisation des disques/Capacité de stockage restante
+└── 7) Quitter le script
